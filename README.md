@@ -1,4 +1,4 @@
-# 📊 **Credit (Loan) Default Prediction Project** 🏦
+# 📊 **Credit (Loan) Default Prediction Project** 🏦        
 
 ## 📝 **Overview**
 This project utilizes **machine learning** to predict the likelihood of **loan default** using a dataset with key financial indicators. By leveraging a **logistic regression model**, we aim to provide accurate predictions, aiding lenders in making informed credit decisions. The project includes **data preprocessing**, **feature engineering**, **model training**, and **evaluation**.
